@@ -13,11 +13,11 @@ try{
 
 let des = `👋 𝙷𝚎𝚕𝚕𝚘 ${pushname} 𝙸'𝚖 𝚊𝚕𝚒𝚟𝚎 𝚗𝚘𝚠
 
-*Im MIKU MD Whatsapp Bot Create By Malvin King 🍂✨*
+*Im MIKU MD Whatsapp Bot Create By 𝗔ᴊªᎫᵘꪶ King 🍂✨*
 
 | *Version*: 1.0.0
 | *Memory*: 38.09MB/7930MB
-| *Owner*: Malvin King
+| *Owner*: 𝗔ᴊªᎫᵘꪶ King
 
 I am Miku md whatsapp bot. How can I help you.
 To get the menu, type as .menu . If you need to know something about the bot,
@@ -25,7 +25,7 @@ type as owner and direct the question to me. Good day.
 
 *°᭄🇿🇼™️ 𝙼𝙸𝙺𝚄 𝙼𝙳*
 
- > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ`
+ > © ᴘᴏᴡᴇʀᴇᴅ ʙʏ 𝗔ᴊªᎫᵘꪶ ᴋɪɴɢ`
 return await conn.sendMessage(from,{image: {url: config.ALIVE_IMG},caption: des},{quoted: mek})
 }catch(e){
 console.log(e)
